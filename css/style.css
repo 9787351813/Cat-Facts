@@ -1,0 +1,15 @@
+.fact-item {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #dc8ad1;
+    justify-content: space-between;
+    font-size: larger;
+}
+.container text-center{
+    background-color: #dc8ad1;
+    h1{
+        color: darkmagenta;
+    }
+}
